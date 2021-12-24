@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>f:/Az os-Lab/Assignment 12/SpaceCraft/Content/font.spritefont</SourceFile>
+  <SourceTime>2020-08-10T20:47:28+04:30</SourceTime>
+  <DestFile>f:/Az os-Lab/Assignment 12/SpaceCraft/Content/bin/DesktopGL/Content/font.xnb</DestFile>
+  <DestTime>2021-12-24T11:25:06.3704113+03:30</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T20:47:54+04:30</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T20:47:54+04:30</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

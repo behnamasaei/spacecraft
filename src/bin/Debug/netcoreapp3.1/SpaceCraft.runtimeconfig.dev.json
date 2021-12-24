@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\behna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\behna\\.nuget\\packages"
+    ]
+  }
+}

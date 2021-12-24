@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"f:/Az os-Lab/Assignment 12/SpaceCraft/Content/Bomb.mp3","f:/Az os-Lab/Assignment 12/SpaceCraft/Content/bin/DesktopGL/Content/Bomb.xnb","SongProcessor","SongContent",28800,122,2.2828088
+"f:/Az os-Lab/Assignment 12/SpaceCraft/Content/enemy.png","f:/Az os-Lab/Assignment 12/SpaceCraft/Content/bin/DesktopGL/Content/enemy.xnb","TextureProcessor","Texture2DContent",80557,443385,0.0668161
+"f:/Az os-Lab/Assignment 12/SpaceCraft/Content/Fire.mp3","f:/Az os-Lab/Assignment 12/SpaceCraft/Content/bin/DesktopGL/Content/Fire.xnb","SongProcessor","SongContent",101711,122,2.0674632
+"f:/Az os-Lab/Assignment 12/SpaceCraft/Content/font.spritefont","f:/Az os-Lab/Assignment 12/SpaceCraft/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.1311356
+"f:/Az os-Lab/Assignment 12/SpaceCraft/Content/gameover.gif","f:/Az os-Lab/Assignment 12/SpaceCraft/Content/bin/DesktopGL/Content/gameover.xnb","TextureProcessor","Texture2DContent",116237,1920085,0.0805081
+"f:/Az os-Lab/Assignment 12/SpaceCraft/Content/heart.png","f:/Az os-Lab/Assignment 12/SpaceCraft/Content/bin/DesktopGL/Content/heart.xnb","TextureProcessor","Texture2DContent",49129,24980089,2.561747
+"f:/Az os-Lab/Assignment 12/SpaceCraft/Content/sky.jpg","f:/Az os-Lab/Assignment 12/SpaceCraft/Content/bin/DesktopGL/Content/sky.xnb","TextureProcessor","Texture2DContent",19448,1137685,0.0614029
+"f:/Az os-Lab/Assignment 12/SpaceCraft/Content/space.png","f:/Az os-Lab/Assignment 12/SpaceCraft/Content/bin/DesktopGL/Content/space.xnb","TextureProcessor","Texture2DContent",296219,2053525,0.1007192
